@@ -47,7 +47,7 @@ logo=Java&logoColor=black" /> -->
 
 </div>
 Colaborador de código aberto do <b>Brasil<b> 💚
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caneto&left_color=green&right_color=red)
+![](visitor-badge-reloaded.herokuapp.com/badge?page_id=caneto)
     
 GitHub Streak              |  Caneto GitHub stats
 :-------------------------:|:-------------------------:   
