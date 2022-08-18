@@ -47,7 +47,7 @@ logo=Java&logoColor=black" /> -->
 
 </div>
 Colaborador de código aberto do <b>Brasil<b> 💚
-![](https://visitor-badge.glitch.me/badge?page_id=caneto)
+![]([https://visitor-badge.glitch.me/badge?page_id=caneto](https://visitor-badge.glitch.me/badge?page_id=caneto)
     
 GitHub Streak 
     
