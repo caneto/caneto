@@ -47,7 +47,7 @@ logo=Java&logoColor=black" /> -->
 
 </div>
 Colaborador de código aberto do <b>Brasil<b> 💚
-<img src="visitor-badge-reloaded.herokuapp.com/badge?page_id=caneto" />
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/80a5407f764ec1e2029f3c95ea9fa4a87ffd9704faab7c6cda5b7c1402c86990/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d76697369746f722d62616467652d72656c6f616465642d76697369746f727326636f6c6f723d353561636237267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562"><img src="https://camo.githubusercontent.com/80a5407f764ec1e2029f3c95ea9fa4a87ffd9704faab7c6cda5b7c1402c86990/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d76697369746f722d62616467652d72656c6f616465642d76697369746f727326636f6c6f723d353561636237267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562" alt="" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=caneto;color=55acb7&amp;style=for-the-badge&amp;logo=Github" style="max-width: 100%;"></a></p>
     
 GitHub Streak              |  Caneto GitHub stats
 :-------------------------:|:-------------------------:   
