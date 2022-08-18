@@ -47,8 +47,9 @@ logo=Java&logoColor=black" /> -->
 
 </div>
 Colaborador de código aberto do <b>Brasil<b> 💚
-![]([https://visitor-badge.glitch.me/badge?page_id=caneto](https://visitor-badge.glitch.me/badge?page_id=caneto)
+![](https://visitor-badge.glitch.me/badge?page_id=caneto)
     
-GitHub Streak 
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+GitHub Streak              |  Caneto GitHub stats
+:-------------------------:|:-------------------------:   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| ![Caneto GitHub sstats](https://github-readme-stats.vercel.app/api?username=caneto&count_private=true&theme=radical)
+
