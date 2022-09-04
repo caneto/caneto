@@ -24,7 +24,7 @@
 - 💻 A tecnologia que estou interessado Flutter/ML/AR etc.
 - 📱 Aplicativo ao vivo recente na Play Store [Contas Trabalhistas CLT]
 - ✨ Eu estou aprendendo Flutter, Automação, Iot etc.
-- 🎮 Atualmente: Word of War Machines | Warpath: Ace Shoot
+- 🎮 Atualmente: Warpath: Ace Shoot
 
 
 <!--
