@@ -60,4 +60,4 @@ Colaborador de código aberto do <b>Brasil</b> 💚
 GitHub Streak              |  Caneto GitHub stats
 :-------------------------:|:-------------------------:   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| ![Caneto GitHub sstats](https://github-readme-stats.vercel.app/api?username=caneto&count_private=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caneto&layout=compact)
