@@ -25,6 +25,7 @@
 - 📱 Aplicativo ao vivo recente na Play Store [Contas Trabalhistas CLT]
 - ✨ Eu estou aprendendo Flutter, Automação, Iot etc.
 - 🎮 Atualmente: Warpath: Ace Shoot
+- 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
 
 
 <!--
