@@ -7,9 +7,9 @@
 <a href="https://www.facebook.com/carlos.albertoneto.75">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<!--<a href="https://www.twitter.com/canetorj/">
+<a href="https://twitter.com/caneto/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>-->
+</a>
 <a href="https://caneto.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
@@ -35,6 +35,10 @@
 - ✨ Eu estou aprendendo Flutter, Automação, Iot etc.
 - 🎮 Atualmente: Warpath: Ace Shoot
 - 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
+
+### Estudando na Academia do Flutter 
+
+ com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)**
 
 
 <!--
@@ -71,3 +75,10 @@ GitHub Streak              |  Caneto GitHub stats
 :-------------------------:|:-------------------------:   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| ![Caneto GitHub sstats](https://github-readme-stats.vercel.app/api?username=caneto&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caneto&layout=compact)
+
+   
+   <div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alberto-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canetorj/)](https://www.linkedin.com/in/canetorj/)
+
+   </div>
