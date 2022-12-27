@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" />  
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
 logo=Java&logoColor=black" /> -->
