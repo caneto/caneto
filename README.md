@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="../css/social-circles.min.css">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caneto&color=red&style=flat" alt="Profile views" /> </p>
+
 <p>Eu sou Carlos Alberto Neto, adoro criar softwares e sites incríveis que causam impacto e compartilham projetos de código aberto @ <a href="https://github.com/caneto">Github</a>.</p>
 
 <p><a href="http://caneto.github.io/">Portfolio Website</a></p>
