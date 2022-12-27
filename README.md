@@ -23,11 +23,11 @@
     <a target="_blank" href="https://github.com/caneto/caneto/blob/main/CurriculumCarlosAlbertoNeto.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
-</br>
-     </br>
-  </div>
+  </br>
+  </br>
+</div>
 
-### Um estudante e desenvolvedor
+### Sou Desenvolvedor Mobile em Android, Java/Kotlin, Flutter, Dart, e estudante para me manter atualizado.
 
 #### Falando sobre minhas coisas pessoais:
 - 💻 A tecnologia que estou interessado Flutter/ML/AR etc.
