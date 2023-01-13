@@ -66,7 +66,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" />  
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />    
+<img src="https://img.shields.io/badge/-SQL%20Server-02569B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-SQLite-02569B?style=for-the-badge&logo=sqlite&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Windows-0175C2?style=for-the-badge&logo=windows" />
+<img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/-Android-0175C2?style=for-the-badge&logo=android" />
+
 <!-- <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
 logo=Java&logoColor=black" /> -->
 </div>
