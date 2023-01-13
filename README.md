@@ -77,7 +77,7 @@ Colaborador de código aberto do <b>Brasil</b> 💚
 <br/>
 ### ⚙️ &nbsp;Minhas Estatísticas
 <br/>
-[![](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| 
+![](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caneto&theme=radical)
 <br/>
 
