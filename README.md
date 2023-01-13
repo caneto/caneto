@@ -74,10 +74,22 @@ logo=Java&logoColor=black" /> -->
 Colaborador de código aberto do <b>Brasil</b> 💚
 <br/>
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=caneto&color=red&style=for-the-badge&logo=Github)
+<br/>
+### ⚙️ &nbsp;Minhas Estatísticas
+<br/>
+[![](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caneto&theme=radical)
+<br/>
 
-GitHub Streak              |  Caneto GitHub stats
-:-------------------------:|:-------------------------:   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)| ![Caneto GitHub sstats](https://github-readme-stats.vercel.app/api?username=caneto&count_private=true&theme=radical)
+
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lincolnvc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lincolnvc&theme=nord_bright)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnvc&layout=compact&title_color=#000000&card_width=250)-->
+
+
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caneto&layout=compact)
 
    
