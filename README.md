@@ -57,23 +57,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">🛠 Ferramentas e Tecnologia</p>
 <div align="center">
-<p align="center">🛠 Ferramentas e Tecnologia</p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Android%20Studio-32CD32?style=for-the-badge&logo=androidstudio" />  
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-32CD32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />  
+<img src="https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma&logoColor=white" />  
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL%20Server-02569B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />  
 <img src="https://img.shields.io/badge/-MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white" />  
-<img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />  
 <img src="https://img.shields.io/badge/-SQLite-02569B?style=for-the-badge&logo=sqlite&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Windows-0175C2?style=for-the-badge&logo=windows" />
 <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/-Android-0175C2?style=for-the-badge&logo=android" />
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white" />  
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=white" />  
+
 
 <!-- <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
 logo=Java&logoColor=black" /> -->
