@@ -78,14 +78,11 @@ Colaborador de código aberto do <b>Brasil</b> 💚
 ### ⚙️ &nbsp;Minhas Estatísticas
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caneto&theme=nord_bright)
-![](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=white&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caneto&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caneto&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caneto&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caneto&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caneto&theme=nord_bright)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caneto&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=caneto&theme=white&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
 
    
    <div align="center">
