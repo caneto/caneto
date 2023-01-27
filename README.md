@@ -29,7 +29,7 @@
   </br>
 </div>
 
-### Sou Desenvolvedor Mobile em Android, Java/Kotlin, Flutter, Dart, e estudante para me manter atualizado.
+### Sou Desenvolvedor Mobile em Android em Flutter/Dart e Java/Kotlin, Back-End - Dart (Shelf) e estudante para me manter atualizado.
 
 #### Falando sobre minhas coisas pessoais:
 - 💻 A tecnologia que estou interessado Flutter/ML/AR etc.
