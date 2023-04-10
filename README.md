@@ -41,7 +41,10 @@
 ### Estudando na Academia do Flutter 
 
  com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)**
+ 
+### Estudando no Dio
 
+ fazendo o BoodCamp de Formação Flutter Specialist
 
 <!--
 **caneto/caneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
