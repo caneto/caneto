@@ -39,13 +39,13 @@
 - 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
 - >>> Meu Portal https://www.capsistema.com.br
 
-### Estudando na Academia do Flutter 
+### Estudando na Academia do Flutter - Fase final
 
- com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)**
+ com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)** 
  
 ### Estudando no Dio
 
- fazendo o BoodCamp de Formação Flutter Specialist
+ Finalizado o BoodCamp de Formação Flutter Specialist
 
 <!--
 **caneto/caneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
