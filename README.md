@@ -35,7 +35,8 @@
 - 💻 A tecnologia que estou interessado Flutter/ML/AR etc.
 - 📱 Aplicativo ao vivo recente na Play Store [Contas Trabalhistas CLT]
 - ✨ Eu estou aprendendo Flutter, Automação, Iot etc.
-- 🎮 Atualmente: Warpath: Ace Shoot
+- 🎮 Atualmente: Warpath: Ace Shoot 
+- 💻 Ebooks de minha autoria de Iot a Fluttter/Dart (https://play.google.com/store/books/author?id=Carlos+Alberto+Pinto&pli=1)
 - 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
 - >>> Meu Portal https://www.capsistema.com.br
 
@@ -43,7 +44,7 @@
 
  com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)** 
  
-### Estudando no Dio
+### Cursos do Dio
 
  Finalizado o BoodCamp de Formação Flutter Specialist
 
