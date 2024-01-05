@@ -48,6 +48,13 @@
 
  Finalizado o BoodCamp de Formação Flutter Specialist
 
+### Cursos da Navit ###
+
+  - Trilha Faribase - Finalizado 
+  - Trilha Offline First - Finalizado
+  - Trilha Dart para Devs - Finalizado
+  - Trilha Firebase - Finalizando
+
 <br/> 
 
 ### Sou Desenvolvedor Android / Flutter/Dart ### 
