@@ -48,22 +48,25 @@
 
  Finalizado o BoodCamp de Formação Flutter Specialist
 
-<!--
-**caneto/caneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sou Desenvolvedor Android / Flutter/Dart ### 
 
-Here are some ideas to get you started:
+Faço serviços para ajuda de projetos, como telas, atualização etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tipos de Serviço que posso fazer.
 
-<p align="left">🛠 Ferramentas e Tecnologia</p>
+- (1) Criação de Minimo 2 telas (Seguindo Figma ou Foto de App Antigo) (Sem Integração com API)
+- (2) Criação de Minimo 3 telas (Seguindo Figma ou Foto de App Antigo) Com Integração de Api ou Json do mesmo, usando Dio.
+- (3) Desensenvimento de Pequeno App com até 5 telas (1 home + 4 features) + Integração de Api ou Json do mesmo usando JSR e DIO.
+- (4) Desensenvimento de Pequeno App com até 5 telas (1 home + 4 features) + Integração de Api ou Json do mesmo usando JSR e DIO, Intração a Auteticação Firebase e outros.
+- (5) Desensenvimento de Medio App com até 8 telas (1 Login + 1 Cadastro + 1 Home + 4 features)
+
+Prazo para Entrega em media 7 dias uteis para (1) e 11 dias para (2), itens 3 a 5 prazo a ser planejado.
+
+PS: Para pagamento de projetos curtos somente via PIX. (Com Sinal + Entrega) ou (Com Sinal e 2 pagamentos com Entrega parcial) para projetos longos dependo ativo minha Empresa para NF.
+
+Solicite seu orcamento via Email: caneto@gmail.com ou (21) 9904-48138 no Whatzap
+
+###<p align="left">🛠 Ferramentas e Tecnologia</p>###
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
