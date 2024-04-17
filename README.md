@@ -22,7 +22,7 @@
 
  <div align="center">
    <a  href ="mailto://caneto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a> 
-    <a target="_blank" href="https://github.com/caneto/caneto/blob/main/CurriculumCarlosAlbertoNeto.pdf">
+    <a target="_blank" href="https://github.com/caneto/caneto/blob/main/CV-novo-2024.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
   </br>
