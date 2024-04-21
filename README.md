@@ -102,7 +102,6 @@ Faço serviços para ajuda de projetos, como telas, atualização etc.
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 
 <!-- <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&
 logo=Java&logoColor=black" /> -->
