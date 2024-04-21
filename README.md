@@ -89,6 +89,7 @@ Faço serviços para ajuda de projetos, como telas, atualização etc.
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-32CD32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />  
 <img src="https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma&logoColor=white" />  
 <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 <img src="https://img.shields.io/badge/-SQL%20Server-02569B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white" />  
 <img src="https://img.shields.io/badge/-MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white" /> 
