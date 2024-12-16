@@ -38,7 +38,6 @@
 - 🎮 Atualmente: Warpath: Ace Shoot 
 - 💻 Ebooks de minha autoria de Iot a Fluttter/Dart (https://play.google.com/store/books/author?id=Carlos+Alberto+Pinto&pli=1)
 - 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
-- >>> Meu Portal https://www.capsistema.com.br
 
 ### Estudando na Academia do Flutter - Fase final
 
