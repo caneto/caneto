@@ -39,22 +39,9 @@
 - 💻 Ebooks de minha autoria de Iot a Fluttter/Dart (https://play.google.com/store/books/author?id=Carlos+Alberto+Pinto&pli=1)
 - 📫 Como chegar até mim https://www.linkedin.com/in/canetorj/.
 
-### Estudando na Academia do Flutter - Fase final
-
- com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)** 
- 
+### Estudo na Academia do Flutter 
 ### Cursos do Dio
-
- Finalizado o BoodCamp de Formação Flutter Specialist
-
 ### Cursos da Navit ###
-
-  - Trilha Faribase - Finalizado 
-  - Trilha Offline First - Finalizado
-  - Trilha Dart para Devs - Finalizado
-  - Trilha Firebase - Finalizando
-
-<br/> 
 
 ### Sou Desenvolvedor Android / Flutter/Dart ### 
 
