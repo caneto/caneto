@@ -64,7 +64,7 @@ Faço serviços para ajuda de projetos, como telas, atualização etc.
 
 - PS: Não emito nf, apenas recibo com auticação do Gov.
 
-#### Solicite seu orcamento via Email: caneto@gmail.com ou (21) 9904-48138 no Whatzap ####
+#### Solicite seu orcamento via Email: caneto@gmail.com ou (21) 99044-8138 no Whatzap ####
 
 <br/>
 
